@@ -1,6 +1,6 @@
 # java-xah (java Xray Argo Hysteria2)
 
-## ⚙️ 配置项说明
+## ⚙️ 配置项说明:https://www.youtube.com/watch?v=foXkVsgqTYA
 
 ```yaml
 app:
